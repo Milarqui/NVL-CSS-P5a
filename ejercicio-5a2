@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>CSS Test</title>
+    <style>/* Estilo con reglas desglosadas */
+      div {
+        border-top: 16px;
+        border-left: 16px;
+        border-right: 16px;
+        border-bottom: 16px;
+        border-color: blue;
+        border-style: dotted;
+        padding-top: 32px;
+        padding-left: 32px;
+        padding-right: 32px;
+        padding-bottom: 32px;
+        margin-top: 10px;
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-bottom: 10px;
+      }
+    </style>
+  </head>
+  <body>
+  <div>
+    <img src=http://fullstack.bootcamp-upgrade.com/wp-content/uploads/2018/08/box-model-ex1.png>
+  </div>
+  </body>
+</html>
